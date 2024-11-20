@@ -1,0 +1,5 @@
+/home/mk/Desktop/CLion-2024.1.1/clion-2024.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mk/Desktop/CLion-2024.1.1/clion-2024.1.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/mk/Projects/Aecros -B /home/mk/Projects/Aecros/cmake-build-debug
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mk/Projects/Aecros/cmake-build-debug

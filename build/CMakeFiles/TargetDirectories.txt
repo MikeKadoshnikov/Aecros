@@ -1,0 +1,3 @@
+/home/mk/Projects/Aecros/build/CMakeFiles/Aecros.dir
+/home/mk/Projects/Aecros/build/CMakeFiles/edit_cache.dir
+/home/mk/Projects/Aecros/build/CMakeFiles/rebuild_cache.dir
